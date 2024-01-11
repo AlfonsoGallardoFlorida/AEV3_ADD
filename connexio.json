@@ -1,0 +1,8 @@
+{
+    "ip": "localhost",
+    "port": 27017,
+    "database": "Memory",
+    "collection_records": "records",
+    "collection_usuaris": "usuarios",
+    "collection_imatges": "img"
+ }
